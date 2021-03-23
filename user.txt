@@ -1,0 +1,3 @@
+admin, adm1n
+adm5n, adm5n
+tech, all

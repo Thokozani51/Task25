@@ -1,0 +1,29 @@
+the total  number of users is 3
+the total number of tasks is 8
+for user admin:
+------------------
+the percentage of tasks assigned to the user that are incomplete and overdue is 100.0
+the percentage of tasks assigned to the user that still need to be completed is 100.0
+the total number of user's completed tasks is 0
+the total number of incompleted tasks is 5
+the total number of tasks assigned to admin is 5
+percentage of the total number of user tasks have been completed is 0.0
+percentage of the total number of tasks have been assigned to admin 62.5
+for user adm5n:
+------------------
+the percentage of tasks assigned to the user that are incomplete and overdue is 0.0
+the percentage of tasks assigned to the user that still need to be completed is 0.0
+the total number of user's completed tasks is 0
+the total number of incompleted tasks is 0
+the total number of tasks assigned to adm5n is 0
+percentage of the total number of user tasks have been completed is 0.0
+percentage of the total number of tasks have been assigned to admin 0.0
+for user tech:
+------------------
+the percentage of tasks assigned to the user that are incomplete and overdue is 0.0
+the percentage of tasks assigned to the user that still need to be completed is 0.0
+the total number of user's completed tasks is 0
+the total number of incompleted tasks is 0
+the total number of tasks assigned to tech is 0
+percentage of the total number of user tasks have been completed is 0.0
+percentage of the total number of tasks have been assigned to admin 0.0

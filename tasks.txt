@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+adm2n, admin, assign initial tasks, 19 Feb 2021, 25 Feb 2021, No
+zandi, admin, data capturing, 22 Feb 2021, 02 Apr 2021, No
+dmin, administration, data capturing, 22 Feb 2021, 20 Mar 2021, yes
+admin, administration, data capturing, 22 Feb 2021, 10 Feb 2021, no
+admin, administration, data capturing, 22 Feb 2021, 13 Feb 2021, no
+admin, administration, data capturing,initializing tasks,answering phone calls, 22 Feb 2021, 20 Feb 2021, No
